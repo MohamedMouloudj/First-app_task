@@ -1,6 +1,6 @@
-# test2
+# First app task
 
-A new Flutter project.
+A new Flutter project about creating the first mobile app.
 
 ## Getting Started
 
